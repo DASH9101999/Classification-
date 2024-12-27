@@ -1,0 +1,440 @@
+Classification
+	Cardiovascular system (CVS) 
+		Parts
+			Heart
+				Pericardium 
+				Myocardium
+				Endocardium
+				Heart valves
+					Mitral valve
+					Tricuspid valve
+					Aortic valve
+					Pulmonary valve
+				Heart chambers 
+					Right atrium 
+					Right ventricule
+					Left atrium 
+					Left ventricle 
+				Heart electrical system
+					SA node 
+					AV node 
+					Bundle of his
+					Purkinji fibers 
+			Blood vessels 
+				Arteries
+				Arterioles
+				Capillaries
+				Venules 
+				Subtopic
+			Lymphatics
+			Lymph 
+		Conditions
+			Pericarditis
+				Acute Pericarditis 
+				Constrictive Pericarditis 
+				Subtopic
+			Pericardial effusion
+			Cardiac tamponade
+			Myocarditis 
+			Cardiomyopathy
+				Dilated cardiomyopathy 
+				Hypertrophic obstructive cardiomyopathy (HOCM) 
+			Coronary artery disease (CAD) 
+				Angina (angina pectoris, stable angina) 
+				Acute coronary syndrome  (ACS) 
+					Unstable angina
+					Myocardial infarction (MI) 
+						ST segment elevation myocardial infarction (STEMI) 
+						NON ST segment elevation myocardial infarction (STEMI) 
+				Prinzmetal angina (variant angina) 
+			Arrhythmia 
+				Tachyarrhythmia
+					Sinus tachycardia 
+					Supraventricular tachycardia 
+					Atrial fibrillation 
+					Atrial flutter 
+					Ventricular tachycardia 
+					Ventricular fibrillation 
+					Torsade de pointe 
+				Bradyarrhythmia 
+					Sinus bradycardia
+					Heart block 
+						1st degree heart block 
+						2nd degree heart block 
+							2nd degree heart block mobitz 1
+							2nd degree heart block mobitz 2
+						3rd degree heart block (Complete heart block)
+			Endocarditis
+			Heart failure (HF) 
+				Acute Heart failure 
+				Subtopic
+			Valvular heart disease
+				Mitral stenosis
+				Tricuspid stenosis
+				Aortic stenosis
+				Pulmonary stenosis
+				Mitral Reguargitation 
+				Tricuspid Reguargitation
+				Aortic Reguargitation
+				Pulmonary Reguargitation
+				Mitral valve prolapse
+			Hypertension (HTN) 
+				Essential hypertension 
+				Secondary hypertension 
+			Atrial myxoma
+			Aortic dissection
+			Aneurysm
+			Vasculitis
+			Deep vein thrombosis (DVT) 
+			Varicose veins
+			Subtopic
+	Respiratory system
+		Organs
+			Nose
+			Nasopharynex
+			Larynex
+			Trachea
+			Bronchus
+			Bronchiole
+			Alveolus
+			Subtopic
+		Manifestations
+			Rhinorrhea
+			Nasal congestion 
+			Snoring
+			Sore throat
+			Cough
+			Dysphonea
+			Chest pain 
+			Dyspnea
+			Hemoptysis
+			Cyanosis
+		Conditions
+			Acite Bronchitis
+			Chronic obstructive pulmonary disease (COPD) 
+				Chronic bronchitis 
+				Subtopic
+			Bronchial asthma (asthma) 
+			Pneumonia
+			Collapse (atelactasis) 
+			Lung fibrosis
+			Pulmonary edema
+			Respiratory failure 
+			Pulmonary tuberculosis (Pulmonary TB) 
+			Pleural effusion 
+			Pleurisy
+			Embyema
+			Pneumothorax
+			Pulmonary hypertension 
+			Acute respiratory distress syndrome (ARDS) 
+			Pulmonary embolism (PE) 
+			Bronchiectasis
+			Pe
+	GIT system
+		Parts
+			Lips
+			Oral cavity
+			Tooth
+			Tounge
+			Palate
+			Uvula
+			Pharynx
+			Gastrointestinal tract (GI tract) 
+				Esophagus 
+				Stomach
+				Small intestine
+					Duodenum
+					Jeujunom
+					Ileum
+				Large intestine
+					Ascending colon
+						Cecum
+							Appendix 
+					Transverse colon
+					Descending colon
+					Simoid colon
+					Rectum
+					Anal canal
+					Anus
+			Pancreas
+			Hepatic system
+				Liver
+				Biliary system
+					Intrahepatic billiary duct
+					Extrahepatic billiary duct
+					Hepatic duct
+					Common bile duct (CBD) 
+					Cystic duct 
+				Portal vein
+			Subtopic
+		Manifestations
+			Oral ulcer
+			Stateorrhea
+			Toothache
+			Dry mouth
+			Sore throat
+			Dysphagia
+			Odynophagia
+			Heartburn
+			Reguargitation 
+			Abdominal pain
+			Bloating
+			Nausea
+			Vomiting 
+			Dyspepsia
+			Abdominal distension
+			Diarrhea 
+			Constipation 
+			Hematemesia
+			Melena
+			Hematochezia
+			Tenesmus
+			Anal pain 
+		Conditions 
+			Dysphagia
+			Esophageal diverticulum
+			Esophagitis
+			Gastritis 
+			Gastroesophageal reflux disease (GERD) 
+			Peptic ulcer disease (PUD) 
+			Celiac disease 
+			Tropical sprue
+			Malabsorption syndrome
+			Gastroenteritis
+			Irritable bowel syndrome (IBS) 
+			Inflammatory bowel disease 
+				Crohn's disease 
+				Ulcerative colitis (UC) 
+			Whipple disease
+			Ascites
+	Hepatic system
+		Parts
+			Liver
+			Biliary system
+				Intrahepatic billiary duct
+				Extrahepatic billiary duct
+				Hepatic duct
+				Common bile duct (CBD) 
+				Cystic duct 
+			Portal vein
+		Conditions
+			Hepatitis
+				Viral hepatitis
+				Subtopic
+			Jaundice
+			Wilson disease
+			Hemochromatosis
+			Liver injury
+			Liver failure 
+			Hepatomegaly 
+			Ascending cholangitis
+			Fatty liver
+	Urinary system
+		Parts
+			Kidney
+			Renal pelvis
+			Ureter
+			Urinary bladder (bladder) 
+			Urethra
+		Manifestations 
+			Loin pain
+			Groin pain
+			Testicular pain
+			Glans penis pain
+			Edema
+			Oliguria
+			Anuria
+			Dysuria
+			Increased urinary frequency 
+			Urine retention
+			Nocturia
+			Hesitancy 
+			Precipitancy
+			Suprapubic pain
+			Red urine 
+			Pnemouria
+		Conditions
+			Renal artery stenosis 
+			Renal failure
+			Glomerulonephritis
+			Nephritic syndrome 
+			Nephrotic syndrome 
+			Pyelonephritis
+			Nephrolithiasis
+			Hydronephrosis
+			Cytitis
+			Urethritis
+			Benign prostatic hyperplasia (BPH) 
+			Prostatitis
+			Acute tubular necrosis (ATN) 
+			Interstitial Nephritis 
+	Genital system
+		Parts
+			Epidydimis
+			Vas deferens
+			Ejaculatory duct
+			Seminal vesicle 
+			Prostate
+			Urethra 
+			Penis
+			Anterior pituitary 
+			Adrenal cortex 
+			Ovary
+			Fallopian tube (uterine tube) 
+			Uterus
+			Cervix
+			Vagina 
+			Hymen
+			Clitoris
+			Labia majora 
+			Testis
+			Labia minora 
+		Conditions
+			Epidedydimitis
+			Vasectomy
+			Infertility
+			Erectile dysfunction
+			Impotence
+			Premature ejaculation 
+	Nervous system
+		Parts
+			Brain
+				Cerebral cortex
+				Cerebullum
+				Thalamus
+				Hypothalamus
+				Basal gangilia
+				Brain stem
+					Mid-brain
+					Pons
+					Medulla oblongata
+			Meninges
+				Dura matter 
+				Arachidon matter 
+				Pia matter 
+			Spinal cord
+			Peripheral nerves
+				Cranial nerves
+					Olfactory nerve (CN-I) 
+					Optic nerve (CN-II)
+					Occulomotor nerve (CN-III) 
+					Trochlear nerve (CN-IV) 
+					Trigeminal nerve (CN-V) 
+					Abducent nerve (CN-VI) 
+					Facial nerve (CN-VII) 
+					Vestibulochoclear nerve (CN-VIII) 
+					Glossopharyngeal nerve (CN-IX) 
+					Vagus nerve (CN-X) 
+					Spinal accessory nerve (CN-XI) 
+					Hypoglossal nerve (CN-XII) 
+				Spinal nerves
+		Conditions 
+			Stroke
+			Peripheral neuropathy (peripheral neuritis)
+			Multiple sclerosis (MS) 
+			Parkinsonism
+			Gullian barre syndrome (GBS) 
+			Amyotrophic lateral sclerosis (ALS)
+			Ptosis
+			Dysphasia 
+			Dysarthria
+			Agnosia 
+			Tremor 
+			Chorea 
+			Apraxia 
+			Subarachinoid hemorrhage
+			Epidural hematoma
+			Encephalitis 
+			Meningitis 
+			Transverse myelitis
+			Poliomyelitis (polio) 
+			Monoplegia 
+			Hemiplegia 
+			Paraplegia 
+			Quadriplegia 
+			Hemiballismus
+			Anaesthesia
+			Paraesthesia
+			Numbness
+			Tingling 
+			Brown-sequard syndrome
+			Pontine hemorrhage
+			Migraine
+			Headache
+			Cluster headache
+			Trigeminal neuralgia
+			Coma
+			Loss of consciousness (LOC)
+			Decortication 
+			Decerebration 
+			Dementia
+			Amnesia
+			Anosmia 
+			Delirium 
+			Alzheimer 
+			Hypertonia
+			Hyperreflexia 
+			Hypotonia
+			Hyporeflexia 
+			Hysteria 
+	Musculoskeletal system
+		Bones
+		Muscles
+		Subtopic
+	Integumentary system
+		Skin
+		Hair
+		Subtopic
+	Endocrine system
+		Hypothalamus
+		Pituitary gland
+			Anterior pituitary 
+			Posterior pituitary 
+		Pineal gland
+		Thyroid gland
+		Parathyroid gland
+		Adrenal gland
+			Adrenal cortex 
+			Adrenal Medulla 
+		Gonads
+			Testis
+			Ovary
+		Pancreas 
+		Liver
+		Kidney
+		Thymus gland
+	Hematological system
+		Bone marrow
+		Blood
+			Plasma 
+			Blood elements
+				Red blood cells (RBCs, Erythrocytes) 
+				White blood cells (WBCs, Leukocytes) 
+					Neutrophils
+					Macrophages
+					Esinophils
+					Basophils
+					Lymphocytes
+						B lymphocytes 
+						Subtopic
+				Platelets (PLT, Thrombocytes) 
+		Spleen
+		Liver
+	Immune system
+		Bone marrow
+		Thymus gland
+		Leukocytes
+		Spleen
+		Skin 
+		GI tract 
+		Lymphatic system
+			Lymph
+			Lymphatics
+			Lymph organs
+				Lymph nodes
+				Spleen
+				Thymus gland
+	Hemostasis system
+		Blood vessels
+		Platelets
+		Coagulation factors 
